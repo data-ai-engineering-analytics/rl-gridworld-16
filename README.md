@@ -83,7 +83,7 @@ The Bellman equation is iteratively applied to compute the value function for ea
 
 ## Example Output
 
-The final value function after convergence might look like this:
+The final value function after convergence looks like this:
 
 ```
 [[-59.42 -57.42 -54.28 -51.71]
